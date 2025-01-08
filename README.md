@@ -20,9 +20,9 @@
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/wordpress/wordpress-original.svg" alt="wordpress" width="40" height="40"/>
 </a>
 <a href="https://woocommerce.com/" target="_blank" rel="noreferrer">
-  <img src="https://woocommerce.com/wp-content/themes/woo/images/favicon.png" alt="woocommerce" width="40" height="40"/>
+  <img src="https://www.svgrepo.com/show/354568/woocommerce.svg" alt="woocommerce" width="40" height="40"/>
 </a>
 <a href="https://www.advancedcustomfields.com/" target="_blank" rel="noreferrer">
-  <img src="https://www.advancedcustomfields.com/wp-content/uploads/2020/12/acf-placeholder.png" alt="acf" width="40" height="40"/>
+  <img src="https://ps.w.org/advanced-custom-fields/assets/icon.svg?rev=3207824" alt="acf" width="40" height="40"/>
 </a>
 
