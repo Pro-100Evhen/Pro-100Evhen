@@ -1,5 +1,5 @@
 <h1 align="left">Hi 👋, I'm Yevhen</h1>
-<h3 align="left">Full Stack Developer (Creating optimized layouts, WordPress, React.js)</h3>
+<h3 align="left">Front-end Developer specializing in React.js and WordPress, with experience in back-end development.</h3>
 
 - 🔭 I’m currently working on **full development of websites on Wordpress**
 
