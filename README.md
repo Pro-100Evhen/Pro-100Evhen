@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on<br>WordPress website development and a pet project built with Next.js, Zustand, and TanStack Query<br><br>👯 I’m looking to collaborate on<br>React, Next.js, and front-end development projects<br><br>🤝 I’m looking for help with<br>Back-end development, server infrastructure, and deployment<br><br>🌱 I’m currently learning<br>DevOps, Linux, TanStack Query, and Zustand<br><br>💬 Ask me about<br>React, Next.js, Redux, WordPress, JavaScript, TypeScript, and website optimization<br><br>⚡ Fun fact<br>I started with WordPress development and gradually moved deeper into modern front-end development with React and Next.js
+🔭 I’m currently working on<br>Pet project built with Next.js, Zustand, and TanStack Query<br><br>👯 I’m looking to collaborate on<br>React, Next.js, and front-end development projects<br><br>🤝 I’m looking for help with<br>Back-end development, server infrastructure, and deployment<br><br>🌱 I’m currently learning<br>DevOps, Linux, TanStack Query, and Zustand<br><br>💬 Ask me about<br>React, Next.js, Redux, WordPress, JavaScript, TypeScript, and website optimization<br><br>⚡ Fun fact<br>I started with WordPress development and gradually moved deeper into modern front-end development with React and Next.js
 
 
 # 💻 Tech Stack:
